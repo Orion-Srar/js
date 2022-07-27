@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8937bfe-7c0d-4bfe-8fa8-cf6b0783fff1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw1/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw2/qw.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js.iml" afterDir="false" />
-    </list>
+    <list default="true" id="e8937bfe-7c0d-4bfe-8fa8-cf6b0783fff1" name="Changes" comment="add hw2," />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,8 +59,23 @@
       <workItem from="1658731419012" duration="7339000" />
       <workItem from="1658839406865" duration="663000" />
       <workItem from="1658862168783" duration="532000" />
-      <workItem from="1658906750276" duration="5027000" />
+      <workItem from="1658906750276" duration="5304000" />
     </task>
+    <task id="LOCAL-00001" summary="add hw2,js">
+      <created>1658911912995</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658911912995</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add hw2,">
+      <created>1658912024049</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658912024049</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,5 +91,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add hw2,js" />
+    <MESSAGE value="add hw2," />
+    <option name="LAST_COMMIT_MESSAGE" value="add hw2," />
   </component>
 </project>
