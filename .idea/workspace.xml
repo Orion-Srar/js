@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8937bfe-7c0d-4bfe-8fa8-cf6b0783fff1" name="Changes" comment="asa">
-      <change afterPath="$PROJECT_DIR$/hw3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw3/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+    <list default="true" id="e8937bfe-7c0d-4bfe-8fa8-cf6b0783fff1" name="Changes" comment="Add hw3">
+      <change afterPath="$PROJECT_DIR$/hw3/Plus/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3/Plus/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3/Plus/sc.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hw2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw2/qw.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw2/qw.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +20,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -47,6 +47,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/boyko/IdeaProjects/js&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -72,7 +73,14 @@
       <workItem from="1658916278271" duration="593000" />
       <workItem from="1658926817447" duration="3710000" />
       <workItem from="1659003368506" duration="3468000" />
-      <workItem from="1659096213549" duration="5501000" />
+      <workItem from="1659096213549" duration="6573000" />
+      <workItem from="1659108327536" duration="5603000" />
+      <workItem from="1659204773682" duration="2253000" />
+      <workItem from="1659264460857" duration="2184000" />
+      <workItem from="1659342809848" duration="2187000" />
+      <workItem from="1659376851238" duration="3812000" />
+      <workItem from="1659442662564" duration="9192000" />
+      <workItem from="1659462902221" duration="3489000" />
     </task>
     <task id="LOCAL-00001" summary="add hw2,js">
       <created>1658911912995</created>
@@ -95,7 +103,21 @@
       <option name="project" value="LOCAL" />
       <updated>1658912155736</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add hw3">
+      <created>1659101841631</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1659101841631</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add hw3">
+      <created>1659101877781</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1659101877781</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +138,7 @@
     <MESSAGE value="add hw2,js" />
     <MESSAGE value="add hw2," />
     <MESSAGE value="asa" />
-    <option name="LAST_COMMIT_MESSAGE" value="asa" />
+    <MESSAGE value="Add hw3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add hw3" />
   </component>
 </project>
