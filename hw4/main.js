@@ -1,22 +1,22 @@
 // - За допомогою циклу for і document.write() вивести 10 блоків div c довільним текстом всередині
-// for (i = 0; i < 10; i++) {
+// for (let i = 0; i < 10; i++) {
 //     document.write(`<div>Hallo</div>`)
 // }
 
 // - За допомогою циклу for і document.write() вивести 10 блоків div c довільним текстом і індексом всередині
-// for (i = 0; i < 10; i++) {
+// for (let i = 0; i < 10; i++) {
 //     document.write(`<div>${i} - Hallo</div>`)
 // }
 
 // - За допомогою циклу while вивести в документ 20 блоків h1 c довільним текстом всередині.
-// i = 0;
+// let i = 0;
 // while (i < 20) {
 //     document.write(`<h1>Hallo</h1>`);
 //     i++
 // }
 
 // - За допомогою циклу while вивести в документ 20 блоків h1 c довільним текстом і індексом всередині.
-// i = 0;
+// let i = 0;
 // while (i < 20) {
 //     document.write(`<h1>Hallo ${i}</h1>`)
 //     i++
@@ -27,10 +27,9 @@
 // побудувати структуру по шаблону
 // Масив:
 //     let listOfItems = ['html', 'css', 'javascript', 'mysql', 'mongodb', 'react', 'angular', 'node.js'];
+//
 // for (const listOfItem of listOfItems) {
-//     document.write(`<ul>`)
-//         document.write(`<li>${listOfItem}</li>`)
-//     document.write(`</ul>`)
+//         document.write(`<ul><li>${listOfItem}</li></ul>`)
 // }
 // ШАБЛОН:
 //     <ul>
