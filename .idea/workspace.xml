@@ -4,16 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8937bfe-7c0d-4bfe-8fa8-cf6b0783fff1" name="Changes" comment="Add hw4">
-      <change afterPath="$PROJECT_DIR$/hw3/Plus/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw4/edditional/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw4/edditional/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw5/extra/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw5/extra/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw5/main.js" afterDir="false" />
+    <list default="true" id="e8937bfe-7c0d-4bfe-8fa8-cf6b0783fff1" name="Changes" comment="Add hw5">
+      <change afterPath="$PROJECT_DIR$/hw6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw6/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw4/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw4/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw5/extra/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw5/extra/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw5/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw5/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +87,11 @@
       <workItem from="1659860384537" duration="17136000" />
       <workItem from="1659958324291" duration="31000" />
       <workItem from="1659958393090" duration="106000" />
-      <workItem from="1659958534460" duration="603000" />
+      <workItem from="1659958534460" duration="880000" />
+      <workItem from="1659981204181" duration="6427000" />
+      <workItem from="1660029728238" duration="3310000" />
+      <workItem from="1660053178795" duration="4174000" />
+      <workItem from="1660114456482" duration="12209000" />
     </task>
     <task id="LOCAL-00001" summary="add hw2,js">
       <created>1658911912995</created>
@@ -135,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659466553487</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add hw5">
+      <created>1659959353192</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1659959353192</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,7 +165,8 @@
     <MESSAGE value="asa" />
     <MESSAGE value="Add hw3" />
     <MESSAGE value="Add hw4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add hw4" />
+    <MESSAGE value="Add hw5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add hw5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

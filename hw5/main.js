@@ -93,19 +93,20 @@
 
 
 // - створити функцію яка повертає найменьше число з масиву
-// let numbers = [ 15, 23,6, 87, 98,100,-75];
+// let numbers = [ 15, 23,6, 87, 98,-100,-75];
 //
 // function minNumber(Array) {
-//     let min = 0;
+//     let min = Array[0];
 //     for (let arrayElement of Array) {
 //         if (arrayElement < min) {
 //             min = arrayElement ;
 //         }
 //
-//         console.log(min);
 //     }
+//     return min;
 // }
-// minNumber(numbers);
+//
+// console.log(minNumber(numbers));
 
 
 // - створити функцію яка приймає масив чисел, сумує значення елементів масиву та повертає його. Приклад [1,2,10]->13
