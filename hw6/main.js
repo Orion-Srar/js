@@ -54,12 +54,12 @@
 //     let nums = [11,21,3];
 // sortNums(nums,'ascending') // [3,11,21]
 // sortNums(nums,'descending') // [21,11,3]
-
-//     let nums = [11,21,3];
 //
-// nums.sort((a, b) => a - b);
-// console.log(nums);
-// nums.sort((a, b) => b - a);
+//     let nums = [11,21,3];
+//     let direction = 1;
+// nums.sort((a, b) => {
+//     return (a - b)*direction;
+// });
 // console.log(nums);
 
 // - є масив
@@ -153,8 +153,8 @@ let packCard = [
 //
 // let cartsDiamant = packCard.filter(value => value.cardSuit === 'diamond');
 // console.log(cartsDiamant);
-//
-// let cartsclabs = packCard.filter(value => {
+// //
+// let cartsclabs = packCard.forEach(value => {
 //         if (value.value < 9) {
 //         } else if (value.cardSuit === 'clubs') {
 //             console.log(value)
