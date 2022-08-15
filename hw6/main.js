@@ -54,13 +54,19 @@
 //     let nums = [11,21,3];
 // sortNums(nums,'ascending') // [3,11,21]
 // sortNums(nums,'descending') // [21,11,3]
-//
+
 //     let nums = [11,21,3];
-//     let direction = 1;
-// nums.sort((a, b) => {
-//     return (a - b)*direction;
-// });
-// console.log(nums);
+//
+// let sortNums = (array, direction) => {
+//     if (direction === 'ascending') {
+//         array.sort((a, b) => a - b);
+//     } else if (direction === 'descending') {
+//         array.sort((a, b) => b - a);
+//     }
+//         return array;
+// }
+//    console.log(sortNums(nums, 'ascending'));
+// console.log(sortNums(nums, 'descending'));
 
 // - є масив
 
@@ -154,14 +160,8 @@ let packCard = [
 // let cartsDiamant = packCard.filter(value => value.cardSuit === 'diamond');
 // console.log(cartsDiamant);
 // //
-// let cartsclabs = packCard.forEach(value => {
-//         if (value.value < 9) {
-//         } else if (value.cardSuit === 'clubs') {
-//             console.log(value)
-//         }
-// }
-// );
 
+// console.log(packCard.filter(value => value.value > 8 && value.cardSuit === 'clubs' || typeof value.value === 'string' && value.cardSuit === 'clubs'));
 
 
 // Додатково по reduce

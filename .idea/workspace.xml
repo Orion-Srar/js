@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e8937bfe-7c0d-4bfe-8fa8-cf6b0783fff1" name="Changes" comment="Add hw6">
+      <change afterPath="$PROJECT_DIR$/hw6/extra/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw6/extra/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw3/Plus/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw3/Plus/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw4/edditional/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hw4/edditional/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw4/edditional/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw4/edditional/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw5/extra/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw5/extra/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hw6/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw6/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +94,11 @@
       <workItem from="1659981204181" duration="6427000" />
       <workItem from="1660029728238" duration="3310000" />
       <workItem from="1660053178795" duration="4174000" />
-      <workItem from="1660114456482" duration="13894000" />
+      <workItem from="1660114456482" duration="14604000" />
+      <workItem from="1660197939558" duration="8183000" />
+      <workItem from="1660373136783" duration="15352000" />
+      <workItem from="1660467236887" duration="9286000" />
+      <workItem from="1660548075250" duration="12250000" />
     </task>
     <task id="LOCAL-00001" summary="add hw2,js">
       <created>1658911912995</created>
@@ -146,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660128848281</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add hw6">
+      <created>1660134864762</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1660134864778</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,16 +189,5 @@
     <MESSAGE value="Add hw5" />
     <MESSAGE value="Add hw6" />
     <option name="LAST_COMMIT_MESSAGE" value="Add hw6" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/hw4/main.js</url>
-          <line>31</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
