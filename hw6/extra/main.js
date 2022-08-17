@@ -203,6 +203,9 @@
 // ];
 
 // відсортувати його в спадаючому порядку за кількістю елементів в полі modules
+
+// let reduce = coursesArray.reduce((acamulator, value) => acamulator.modules.length < value.modules.length ? value : acamulator);
+// console.log(reduce);
 //
 // let sort = coursesArray.sort((a, b) => b.modules.length - a.modules.length);
 // console.log(sort);
@@ -237,7 +240,21 @@
 //
 // console.log(cutString('Сила тяжести приложена к центру масс тела', 5));
 
-
-
-
+// let numbers = [1, 2, 3, 4,25, 5, 6, 7];
+//
+// let number1 = numbers.reduce((acumulator, value) => value%2?[...acumulator,value]:acumulator,[]);
+// console.log(number1);
+//
+// let number2 = numbers.reduce((previousValue, currentValue) => [...previousValue, currentValue * 2], []);
+// console.log(number2);
+//
+// let numbers3 = numbers.reduce((acumulator, value) => !(value % 2) ? [...acumulator, value * 2] : acumulator, []);
+// console.log(numbers3);
+//
+// let sum = numbers.reduce((acumulator, value) => acumulator + value);
+// console.log(sum);
+//
+// let numberMax = numbers.reduce((acumulator, value) => acumulator < value ? value : acumulator);
+//
+// console.log(numberMax);
 
