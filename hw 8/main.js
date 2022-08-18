@@ -218,3 +218,4 @@
 //
 // // let popelushkas = array.filter(value => value.sizeLeg === prins.findShoes);
 // // console.log(popelushkas);
+
