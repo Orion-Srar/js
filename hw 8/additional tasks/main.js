@@ -115,3 +115,11 @@
 //
 // let a = new Tag('a','Тег <a> является одним из важных элементов HTML и предназначен для создания ссылок.',[{titleOfAttr:'accesskey',actionOfAttr:'Активация ссылки с помощью комбинации клавиш.'},{titleOfAttr:'coords',actionOfAttr:'Устанавливает координаты активной области.'}]);
 // console.log(a);
+
+
+
+const d = Math.floor((new Date('2023-01-01T00:00:00') - new Date()) / 1000);
+console.log(d);
+
+
+
