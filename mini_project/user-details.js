@@ -1,6 +1,5 @@
 
 let url = new URL(location.href);
-console.log(url);
 let id = url.searchParams.get('id');
 
 let wrap = document.createElement('div');

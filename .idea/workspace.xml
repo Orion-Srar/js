@@ -4,23 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8937bfe-7c0d-4bfe-8fa8-cf6b0783fff1" name="Changes" comment="add hw9">
-      <change afterPath="$PROJECT_DIR$/hw/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw9/additional_tasks/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw9/additional_tasks/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mini_project/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mini_project/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mini_project/post-details.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mini_project/post-details.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mini_project/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mini_project/user-details.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mini_project/user-details.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/promise/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/promise/main.js" afterDir="false" />
+    <list default="true" id="e8937bfe-7c0d-4bfe-8fa8-cf6b0783fff1" name="Changes" comment="mini project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw9/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hw9/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw9/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw9/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini_project/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/mini_project/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini_project/user-details.js" beforeDir="false" afterPath="$PROJECT_DIR$/mini_project/user-details.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +125,7 @@
       <workItem from="1661700204686" duration="430000" />
       <workItem from="1661712770391" duration="3794000" />
       <workItem from="1661716942962" duration="53000" />
-      <workItem from="1661759730345" duration="1383000" />
+      <workItem from="1661759730345" duration="2864000" />
     </task>
     <task id="LOCAL-00001" summary="add hw2,js">
       <created>1658911912995</created>
@@ -231,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661153521855</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="mini project">
+      <created>1661761304016</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1661761304017</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -259,6 +253,7 @@
     <MESSAGE value="Add hw8" />
     <MESSAGE value="additional tasks" />
     <MESSAGE value="add hw9" />
-    <option name="LAST_COMMIT_MESSAGE" value="add hw9" />
+    <MESSAGE value="mini project" />
+    <option name="LAST_COMMIT_MESSAGE" value="mini project" />
   </component>
 </project>
