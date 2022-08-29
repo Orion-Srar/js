@@ -274,22 +274,59 @@
 //
 // !!!!!Розкоментувати <form name="f2" > в HTML
 
+let input1 = document.createElement('input');
+input1.type = 'number';
+input1.placeholder = 'Row';
+let input2 = document.createElement('input');
+input2.type = 'number';
+input2.placeholder = 'Locker'
+let input3 = document.createElement('input');
+input3.placeholder = 'Text'
+let button = document.createElement('button');
+button.innerText = 'Click';
 
-// let table = document.createElement('table');
-// document.body.appendChild(table);
-// table.style.border = '2px solid black'
-//
-// let tr = document.createElement('tr');
-// table.appendChild(tr);
-//
-//
-// let f2 = document.forms.f2;
-// f2.onsubmit = function (e) {
-//     e.preventDefault()
-//     let row = this.row.value;
-//     let locker = this.locker.value;
-//     let text = this.text.value;
-//     console.log(row, locker, text)
-//     tr.innerHTML =` <td>Кількість рядків: ${row},</td> <td>Кількість ячеєк: ${locker},</td> <td>вміст: ${text} </td>`
-//
-// }
+document.body.append(input1, input2, input3, button);
+
+
+let table = document.createElement('table');
+document.body.appendChild(table);
+table.style.border = '2px solid black'
+
+button.addEventListener("click", function () {
+
+    let tr = input1.value;
+    let td = input2.value;
+    let text = input3.value;
+
+    function f(tr, td, text) {
+        for (let i = 0; i < tr; i++) {
+            let row = document.createElement('tr');
+            table.appendChild(row);
+
+            for (let j = 0; j < td; j++) {
+                let locker = document.createElement('td');
+                locker.innerText = `${text}`;
+                row.appendChild(locker);
+
+            }
+        }
+
+    }
+
+    f(tr, td, text);
+
+})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
